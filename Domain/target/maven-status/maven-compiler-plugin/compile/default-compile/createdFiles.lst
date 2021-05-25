@@ -1,0 +1,5 @@
+amr\Domain\Services\ThingTestServices.class
+amr\Domain\Domain.class
+amr\Domain\Interfaces\IThingService.class
+amr\Domain\Services\ThingService.class
+amr\Domain\ThingSettings.class
